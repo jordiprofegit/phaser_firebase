@@ -20,10 +20,3 @@ Un joc de plataformes desenvolupat amb Phaser 3 que guarda les puntuacions dels 
 3. **Recull les estrelles** per augmentar la teva puntuació
 4. **Evita les bombes** - si en toques una, el joc acaba
 5. Cada vegada que reculls una estrella, la teva puntuació es guarda automàticament a Firebase
-
-## 🛠️ Tecnologies Utilitzades
-
-- **Phaser 3** - Motor de jocs HTML5
-- **Firebase** - Backend com a servei
-- **Firestore** - Base de dades en temps real
-- **JavaScript ES6** - Lògica del joc
